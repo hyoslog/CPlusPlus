@@ -1,5 +1,6 @@
 # IDE
 .vs/
+*.vcxproj.user
 
 # Prerequisites
 *.d
